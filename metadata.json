@@ -1,0 +1,8 @@
+{
+  "name": "Remix AppBuilder Pro",
+  "description": "Generate complete app source code, receive project ZIP files, and follow simple steps to build in AIDE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
